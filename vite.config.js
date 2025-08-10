@@ -6,5 +6,9 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [
     tailwindcss(),
-    react()],
+    react()
+  ],
+  preview: {
+    allowedHosts: ['portfolio-new-8l25.onrender.com'],
+  },
 })
