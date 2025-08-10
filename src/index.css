@@ -1,0 +1,10 @@
+@import "tailwindcss";
+body {
+  background-color:rgb(15, 23, 42)
+}
+
+
+h1 {
+  font-family: "Baumans", system-ui;
+}
+
