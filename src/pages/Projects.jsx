@@ -21,10 +21,10 @@ const Projects = () => {
 
       
           <Card 
-        webLink="https://github.com/jodahe1/Portfolio-New.git"
-        imgSrc='/assets/Portfolioimg.jpg'
-        title="Portfolio"
-        description="Create a clean, professional, and responsive portfolio website to showcase my personal projects, skills, resume, and contact information. The site should include a homepage with a short introduction, a projects section with images and descriptions, an about page with my background and skills, and a contact form. Use modern design elements, smooth scrolling, and subtle animations to enhance user experience"/>
+        webLink="https://github.com/jodahe1/Land---Property-Management-System--LPMS-.git"
+        imgSrc='/assets/LandMgt.jpg'
+        title="Land Managment System"
+        description="This Land Managment System can be used by any Kebelle in Ethiopia it allows citizens to register their land from home and it will help goverment officials to deal with land disputes since the system allow anyone to rise dispute , transfer issues it will reduce the huge line around keblle offices."/>
       </div>
     </div>
   )
